@@ -1,1 +1,2 @@
 - https://github.com/ecriminal/phpvuln
+- https://codingo.io/tools/ffuf/bounty/2020/09/17/everything-you-need-to-know-about-ffuf.html
