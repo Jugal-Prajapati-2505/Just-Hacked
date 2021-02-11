@@ -1,3 +1,9 @@
+Notes - 
+- https://d3adend.org/xss/ghettoBypass
+
+
+
+WriteUps
 - https://hackerone.com/reports/949382
 - XSS + CSRF https://rohit-soni.medium.com/story-behind-sweet-ssrf-40c705f13053
 - https://medium.com/bugbountywriteup/automating-xss-using-dalfox-gf-and-waybackurls-bc6de16a5c75
