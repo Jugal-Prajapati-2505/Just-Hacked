@@ -5,6 +5,7 @@
 
 # Methodology
 - https://blog.usejournal.com/bug-hunting-methodology-part-1-91295b2d2066
+- https://www.scribd.com/document/490561405/zseano-s-methodology
 
 # PayLoads
 - https://github.com/payloadbox/xss-payload-list
