@@ -11,5 +11,6 @@ WriteUps
 
 PayLoads
 - "><img src=x onerror=alert(document.domain)>
+- Comment - <img src="https://intensedebate.com/images/a-addblog.png" onload="alert()">
 
 
