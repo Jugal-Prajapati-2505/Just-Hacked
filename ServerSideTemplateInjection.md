@@ -1,0 +1,1 @@
+- https://ismailtasdelen.medium.com/server-side-template-injection-payloads-895c6fc273e4
