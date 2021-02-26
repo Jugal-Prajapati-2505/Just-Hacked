@@ -2,3 +2,4 @@
 - https://codingo.io/tools/ffuf/bounty/2020/09/17/everything-you-need-to-know-about-ffuf.html
 - https://secnhack.in/xbruteforcer-brute-force-tool-for-website-login/
 - XSS tool for burp  https://github.com/elkokc/reflector
+- https://github.com/iamthefrogy/bucketbunny
