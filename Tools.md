@@ -3,3 +3,4 @@
 - https://secnhack.in/xbruteforcer-brute-force-tool-for-website-login/
 - XSS tool for burp  https://github.com/elkokc/reflector
 - https://github.com/iamthefrogy/bucketbunny
+- https://secnhack.in/dirdar-bypass-403-forbidden-directories/
