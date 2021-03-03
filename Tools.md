@@ -4,3 +4,4 @@
 - XSS tool for burp  https://github.com/elkokc/reflector
 - https://github.com/iamthefrogy/bucketbunny
 - https://secnhack.in/dirdar-bypass-403-forbidden-directories/
+- https://github.com/MayankPandey01/BrokenLinkHijacker
