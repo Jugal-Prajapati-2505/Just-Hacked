@@ -5,3 +5,4 @@
 - https://github.com/iamthefrogy/bucketbunny
 - https://secnhack.in/dirdar-bypass-403-forbidden-directories/
 - https://github.com/MayankPandey01/BrokenLinkHijacker
+- https://github.com/robotshell/magicRecon?fbclid=IwAR3mfHCeyWS2A6yr9nZvU1xA1flVwoByEK1VWkN11Ek1nEhtKKXXCUAHQzI
