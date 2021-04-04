@@ -7,3 +7,4 @@
 - https://github.com/MayankPandey01/BrokenLinkHijacker
 - https://github.com/robotshell/magicRecon?fbclid=IwAR3mfHCeyWS2A6yr9nZvU1xA1flVwoByEK1VWkN11Ek1nEhtKKXXCUAHQzI
 - https://github.com/r3curs1v3-pr0xy/vajra
+- https://github.com/blackhatethicalhacking/DirDar
