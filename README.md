@@ -21,3 +21,4 @@
 # Sites
 - https://gf.dev/
 - https://abuse.ch/
+- https://application.security/free/owasp-top-10
