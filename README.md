@@ -22,3 +22,8 @@
 - https://gf.dev/
 - https://abuse.ch/
 - https://application.security/free/owasp-top-10
+
+
+# Material
+- https://mega.nz/folder/SIgFFI7Z#8eC-HiNoD-gKLfFNyFHRhA
+- https://mega.nz/folder/Y8dVmSqB#LSMcleRGyrpeXW5T7_9ZwA
