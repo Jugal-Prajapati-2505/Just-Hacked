@@ -11,6 +11,7 @@ WriteUps
 - https://hackerone.com/reports/1085914
 - https://hackerone.com/reports/1082847
 - https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b
+- https://shreyapohekar.com/blogs/dont-just-sanitize-but-also-escape-a-fable-of-sanitize_text_field/
 
 PayLoads
 - "><img src=x onerror=alert(document.domain)>
