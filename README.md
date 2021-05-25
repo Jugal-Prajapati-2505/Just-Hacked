@@ -9,6 +9,7 @@
 # Methodology
 - https://blog.usejournal.com/bug-hunting-methodology-part-1-91295b2d2066
 - https://www.scribd.com/document/490561405/zseano-s-methodology
+- JS FILES - https://notifybugme.medium.com/finding-basic-authtoken-in-javascript-file-by-full-automation-6188ca1b1f56
 
 # PayLoads
 - https://github.com/payloadbox/xss-payload-list
