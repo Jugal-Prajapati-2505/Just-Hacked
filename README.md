@@ -15,6 +15,7 @@
 - https://github.com/payloadbox/xss-payload-list
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - https://github.com/payloadbox/sql-injection-payload-list
+- https://netsec.expert/posts/xss-in-2021/#keyword-filtering
 
 - https://www.security-sleuth.com/sleuth-blog/2017/1/3/sqlmap-cheat-sheet
 
