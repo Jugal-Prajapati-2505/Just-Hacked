@@ -19,7 +19,7 @@
 
 - https://www.security-sleuth.com/sleuth-blog/2017/1/3/sqlmap-cheat-sheet
 
--https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Input_Validation_Cheat_Sheet.md
+- https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Input_Validation_Cheat_Sheet.md
 
 # Sites
 - https://gf.dev/
