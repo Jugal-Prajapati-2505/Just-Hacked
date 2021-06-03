@@ -1,2 +1,3 @@
 - https://shahjerry33.medium.com/account-takeover-smoking-with-null-e43df2c3bb41
 - https://infosecwriteups.com/password-reset-token-leak-via-x-forwarded-host-4ed3e33dca31
+- https://sm4rty.medium.com/hunting-for-bugs-in-password-reset-feature-2021-3def1b391bef
