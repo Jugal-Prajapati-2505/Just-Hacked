@@ -6,6 +6,7 @@
 - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 - https://github.com/daffainfo/AllAboutBugBounty
 - https://github.com/punishell/bbtips
+- https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 
 # Methodology
 - https://blog.usejournal.com/bug-hunting-methodology-part-1-91295b2d2066
