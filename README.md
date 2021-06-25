@@ -7,6 +7,7 @@
 - https://github.com/daffainfo/AllAboutBugBounty
 - https://github.com/punishell/bbtips
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+- https://resources.harshbothra.tech/
 
 # Methodology
 - https://blog.usejournal.com/bug-hunting-methodology-part-1-91295b2d2066
