@@ -8,6 +8,7 @@
 - https://github.com/punishell/bbtips
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 - https://resources.harshbothra.tech/
+- https://www.notion.so/Web-Application-Penetration-Testing-Checklist-4792d95add7d4ffd85dd50a5f50659c6
 
 # Methodology
 - https://blog.usejournal.com/bug-hunting-methodology-part-1-91295b2d2066
