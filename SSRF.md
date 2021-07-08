@@ -1,0 +1,1 @@
+- https://saumyaagrawal2001.medium.com/automation-to-find-blind-ssrf-f103912839e9
