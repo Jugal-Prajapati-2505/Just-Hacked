@@ -1,6 +1,5 @@
 # Just-Hacked
 
-- https://daffa.tech/2021/01/29/how-to-get-50-within-3-minutes/
 - https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://github.com/harsh-bothra/learn365
 - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
